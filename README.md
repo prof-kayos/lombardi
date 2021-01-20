@@ -12,7 +12,7 @@ Source: https://www.thingiverse.com/thing:4114969
     None
 
     Scale:
-    90%
+    90% (Limitation on the print space)
 
     Infill:
     20%
