@@ -12,7 +12,10 @@ Source: https://www.thingiverse.com/thing:4114969
 
   Supports:
   None
-
+  
+  Scale:
+  90%
+  
   Infill:
   20%
 
