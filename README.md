@@ -34,10 +34,12 @@ Source: https://www.thingiverse.com/thing:4114969
     Gator 220 Finish Super Sponge
     Gorrilla Glue Clear Epoxy
   
-## Printing
+## Printing Round 1 (Did not set the right timelapse interval)
 
 Base Piece 1:
+
     https://youtu.be/bk5zvl-i4tw
 
 Base Piece 2:
+
     https://youtu.be/LdWRS-ayl6c
