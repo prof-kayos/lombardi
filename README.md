@@ -4,39 +4,39 @@
 
 Source: https://www.thingiverse.com/thing:4114969
 
-  Printer brand:
-  Monoprice
+    Printer brand:
+    Monoprice
 
-  Printer:
-  Maker Select Plus 3D Printer 
+    Printer:
+    Maker Select Plus 3D Printer 
 
-  Supports:
-  None
-  
-  Scale:
-  90%
-  
-  Infill:
-  20%
+    Supports:
+    None
 
-  Filament brand:
-  Hatchbox
+    Scale:
+    90%
 
-  Filament color:
-  Black
+    Infill:
+    20%
 
-  Filament material:
-  Pla
+    Filament brand:
+    Hatchbox
+
+    Filament color:
+    Black
+
+    Filament material:
+    Pla
  
-  Other Materials:
+ Other Materials:
   
-    Rust-Oleum 260510 Automotive 2-in-1 Filler & Sandable Primer, 12 Oz, Gray
+  Rust-Oleum 260510 Automotive 2-in-1 Filler & Sandable Primer, 12 Oz, Gray
 
-    2 x Rust-Oleum Specialty Metallic 1915830 Metallic Silver
+  2 x Rust-Oleum Specialty Metallic 1915830 Metallic Silver
 
-    Gator 320 Finish Super Sponge
+  Gator 320 Finish Super Sponge
 
-    Gator 220 Finish Super Sponge
+  Gator 220 Finish Super Sponge
 
-    Gorrilla Glue Clear Epoxy
+  Gorrilla Glue Clear Epoxy
   
