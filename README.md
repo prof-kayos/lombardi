@@ -1,7 +1,5 @@
 # Lombardi Trophy
 
-## Print it
-
 Source: https://www.thingiverse.com/thing:4114969
 
     Printer brand:
