@@ -1,4 +1,4 @@
-# L
+# Lombardi Trophy
 
 ## Print it
 
@@ -17,7 +17,7 @@ Source: https://www.thingiverse.com/thing:4114969
   20%
 
   Filament brand:
-  I dont know
+  Hatchbox
 
   Filament color:
   Black
@@ -25,3 +25,10 @@ Source: https://www.thingiverse.com/thing:4114969
   Filament material:
   Pla
  
+  Other Materials:
+  Rust-Oleum 260510 Automotive 2-in-1 Filler & Sandable Primer, 12 Oz, Gray
+  Rust-Oleum Specialty Metallic 1915830 Metallic Silver
+  Gator 320 Finish Super Sponge
+  Gator 220 Finish Super Sponge
+  Gorrilla Glue Clear Epoxy
+  
