@@ -29,14 +29,10 @@ Source: https://www.thingiverse.com/thing:4114969
     Pla
  
  Other Materials:
-  
-  Rust-Oleum 260510 Automotive 2-in-1 Filler & Sandable Primer, 12 Oz, Gray
-
-  2 x Rust-Oleum Specialty Metallic 1915830 Metallic Silver
-
-  Gator 320 Finish Super Sponge
-
-  Gator 220 Finish Super Sponge
-
-  Gorrilla Glue Clear Epoxy
+ 
+    Rust-Oleum 260510 Automotive 2-in-1 Filler & Sandable Primer, 12 Oz, Gray
+    2 x Rust-Oleum Specialty Metallic 1915830 Metallic Silver
+    Gator 320 Finish Super Sponge
+    Gator 220 Finish Super Sponge
+    Gorrilla Glue Clear Epoxy
   
